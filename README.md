@@ -1,5 +1,7 @@
 # Mix
 
+![](Mix.jpg)
+
 This is a dead-simple 4-input mixer in 2HP. It is built with 0805 size passives and an SOIC dual op amp.
 
 ## BOM
